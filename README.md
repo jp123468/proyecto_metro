@@ -1,9 +1,5 @@
-# Plantilla para proyectos de react
+# React-Fundamentos
+Plantilla de trabajo para los fundamentos de React y los principales Hooks
 
-Modo normal
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/plantilla-react-fundamentos/main/src/assets/logo-intro.png)
-
-Modo darkmode
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/plantilla-react-fundamentos/main/src/assets/logo-dark.png)
+# Error
+Si necesitas redireccionar con netlify tienes que modificar el archivo `netlify.toml`
